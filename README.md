@@ -2,8 +2,8 @@
 ---
 
 ## Dataset
-PASCAL VOC: https://pjreddie.com/projects/pascal-voc-dataset-mirror/
-RSOD: https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
+1. PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
+2. RSOD: https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 
 ## Train
 1. This article uses the VOC format for training 
